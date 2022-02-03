@@ -1,7 +1,6 @@
 <!--https://github.com/denvercoder1/readme-typing-svg-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Put+stars,+fork+and+contribute!)](https://git.io/typing-svg)
 
-- 👋 Hi, I am Alexey from Saint Petersburg. 
 - 👀 Passionate about Web Development. 
 - 🌱 Learning technologies that I found interesting.
 
