@@ -5,7 +5,7 @@
 - 🌱 Learning technologies that I found interesting.
 
 <!--https://github.com/Ileriayo/markdown-badges-->
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angerro)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/web2finder)
 
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
